@@ -25,6 +25,8 @@ Using this app you can:
   * wave
   * numpy
   * os , path (preinstalled)
+ # How to run:
+ * Just download the "protiumplayer.zip" from the repo and unpack it. then run the python file.
 # How to Use:
 Basic Usage Guide
 * It is required that the file you need to work on should be in the same directory as the protium app.
