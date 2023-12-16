@@ -12,7 +12,13 @@ Using this app you can:
 * I had some help creating the GUI using [this designer (very cool)](https://github.com/ParthJadhav/Tkinter-Designer) but i had to rewrite the gui in the end to make everything fit in well.
 
 # REQUIREMENTS:
-* Python3.10 is a hard requirement sadly. i HIGHLY reccomend created a 3.10 venv and running the app there. as soon as "pyrubberband" module moves to 3.12 this wont be required
+* Python3.10 is a hard requirement sadly. i HIGHLY reccomend created a 3.10 venv and running the app there.
+* Well how do i create a venv?
+  * venv's are virtual environments. this helps you run and install python modules isolated from the host system (kind of like a container)
+  * to create venv of a particular python version it needs to be installed on your system.
+  * then to create venv open terminal (or cringe powershell) and type in "python3.10 -m venv venv_name"
+  * you can replace 3.10 with any version you want (but this project will strictly need 3.10)
+*  as soon as the "pyrubberband" module moves to 3.12 this wont be required
 * Once you create a venv install the following modules using pip:
   * scipy
   * pygame
