@@ -17,6 +17,7 @@ Using this app you can:
   * venv's are virtual environments. this helps you run and install python modules isolated from the host system (kind of like a container)
   * to create venv of a particular python version it needs to be installed on your system.
   * then to create venv open terminal (or cringe powershell) and type in "python3.10 -m venv venv_name"
+  * enter the venv (the process differs based on OS)
   * you can replace 3.10 with any version you want (but this project will strictly need 3.10)
 *  as soon as the "pyrubberband" module moves to 3.12 this wont be required
 * Once you create a venv install the following modules using pip:
