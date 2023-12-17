@@ -67,7 +67,7 @@ Basic Usage Guide
 * As i mentioned before the visualiser is a blatant , shameless ripoff , and can be better explained by the repo i linked above.
 * note that only .wav audio files work for the visualiser
 
-# Plans for the Future (if life dosent exhause me):
+# Plans for the Future (if life dosent exhaust me):
 * Add custom theming
 * Move away (As far as i can) from tkinter and use Qt instead
 * add sliders (which i can even now but im lazy)
