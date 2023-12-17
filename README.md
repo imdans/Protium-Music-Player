@@ -12,7 +12,7 @@ Using this app you can:
 * I had some help creating the GUI using [this designer (very cool)](https://github.com/ParthJadhav/Tkinter-Designer) but i had to rewrite the gui in the end to make everything fit in well.
 
 # REQUIREMENTS:
-* Python3.10 is a hard requirement sadly. i HIGHLY reccomend created a 3.10 venv and running the app there.
+* Python3.10 is a hard requirement sadly. i HIGHLY reccomend creating a 3.10 venv and running the app there.
 * Well how do i create a venv?
   * venv's are virtual environments. this helps you run and install python modules isolated from the host system (kind of like a container)
   * to create venv of a particular python version it needs to be installed on your system.
