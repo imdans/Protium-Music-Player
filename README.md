@@ -23,7 +23,7 @@ Using this app you can:
 * Once you create a venv install the following modules using pip:
   * scipy
   * pygame
-  * tkinter
+  * tkinter(pip install may not work so you may need to install this manually or use your OS package manager specifically for tkinter-python3.10)
   * youtube_dl
   * pydub
   * soundfile
